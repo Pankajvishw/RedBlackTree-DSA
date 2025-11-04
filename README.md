@@ -1,3 +1,4 @@
+```markdown
 # 🔴⚫ Red-Black Tree in C
 
 A complete implementation of a **Red-Black Tree** data structure in **C language**, featuring insertion, deletion, searching, and tree visualization with color and indentation.
@@ -40,6 +41,7 @@ Developed as part of **Data Structures practice at Emertxe Institute**.
 ### 🔧 To Build
 ```bash
 make
+```
 ```
 ▶️ To Run 
 ```bash
