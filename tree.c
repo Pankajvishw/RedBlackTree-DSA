@@ -400,7 +400,10 @@ int delete_tree(Tree **root)
  * --------------------------------------------------------------------*/
 void print_color(int color)
 {
-    printf(color == RED ? "RED" : "BLACK");
+    if (color == RED)
+        printf("\033[1;31mRED\033[0m");   // bright red
+    else
+        printf("\033[1;30mBLACK\033[0m"); // bright black (gray)
 }
 
 /* --------------------------------------------------------------------
