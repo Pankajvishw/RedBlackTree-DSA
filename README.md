@@ -35,13 +35,12 @@ Developed as part of **Data Structures practice at Emertxe Institute**.
 - 🧱 Makefile-based build automation  
 
 ---
-
+```
 ## ⚙️ Compilation & Execution
 
 ### 🔧 To Build
 ```bash
 make
-```
 ```
 ▶️ To Run 
 ```bash
